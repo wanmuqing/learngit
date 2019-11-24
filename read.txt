@@ -1,1 +1,6 @@
 This file is make for learn Git!
+hello!
+hai!
+I LOVE YOU!
+666
+HAHA
