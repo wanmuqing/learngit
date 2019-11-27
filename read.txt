@@ -5,3 +5,4 @@ I LOVE YOU!
 666
 HAHA
 huhu
+Git has a mutable index called stage.
